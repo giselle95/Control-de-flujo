@@ -1,6 +1,6 @@
 #Permitir el ingreso de una clave numerica entera. Finalizar el ingreso  solamente cuando la clave ingresada sea 23645.
 
-
+#esta es una prueba
 clave = input("Ingrese la clave : \n")
 bloqueo = False
 
